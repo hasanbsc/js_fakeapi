@@ -1,25 +1,21 @@
 [
     {
-        "posts": [
+        "sarkilar": [
             {
-                "sarkilar": [
-                    {
-                        "sarkiId": 100001,
-                        "sarkiciName": "Gülşen",
-                        "sarkiName": "Bangır Bangır",
-                        "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/5/5b/G%C3%BCl%C5%9Fen_-_Bang%C4%B1r_Bang%C4%B1r.png",
-                        "sarkiDefaultTranspose": "C",
-                        "sarkiSoz": "Gül(Gm) gibi uyuyan yılanı uyandırdın\nGaranti(Cm) bildin beni havalandın\nAdın(Eb) bensiz buralarda\nEtkisiz eleman sıfır(D) aldın\nYavrum(Gm) kaldır kollarını\nTeslim(Gm) ol etrafın sarılı\nSabret(Gm) af çıksın sana ben\nÖptürcem(Gm) bu evin yollarını\nYavrum(Gm) kaldır kollarını\nTeslim(Gm) ol etrafın sarılı\nBunlar(Gm) iyi günler sana ben\nGöstercem(Gm) kıvrak oyunlarımı"
-                    },
-                    {
-                        "sarkiId": 100001,
-                        "sarkiciName": "hasanseks",
-                        "sarkiName": "Bangır Bangır",
-                        "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/5/5b/G%C3%BCl%C5%9Fen_-_Bang%C4%B1r_Bang%C4%B1r.png",
-                        "sarkiDefaultTranspose": "C",
-                        "sarkiSoz": "Gül(Gm) gibi uyuyan yılanı uyandırdın\nGaranti(Cm) bildin beni havalandın\nAdın(Eb) bensiz buralarda\nEtkisiz eleman sıfır(D) aldın\nYavrum(Gm) kaldır kollarını\nTeslim(Gm) ol etrafın sarılı\nSabret(Gm) af çıksın sana ben\nÖptürcem(Gm) bu evin yollarını\nYavrum(Gm) kaldır kollarını\nTeslim(Gm) ol etrafın sarılı\nBunlar(Gm) iyi günler sana ben\nGöstercem(Gm) kıvrak oyunlarımı"
-                    }
-                ]
+                "sarkiId": 100001,
+                "sarkiciName": "Gülşen",
+                "sarkiName": "Bangır Bangır",
+                "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/5/5b/G%C3%BCl%C5%9Fen_-_Bang%C4%B1r_Bang%C4%B1r.png",
+                "sarkiDefaultTranspose": "C",
+                "sarkiSoz": "Gül(Gm) gibi uyuyan yılanı uyandırdın\nGaranti(Cm) bildin beni havalandın\nAdın(Eb) bensiz buralarda\nEtkisiz eleman sıfır(D) aldın\nYavrum(Gm) kaldır kollarını\nTeslim(Gm) ol etrafın sarılı\nSabret(Gm) af çıksın sana ben\nÖptürcem(Gm) bu evin yollarını\nYavrum(Gm) kaldır kollarını\nTeslim(Gm) ol etrafın sarılı\nBunlar(Gm) iyi günler sana ben\nGöstercem(Gm) kıvrak oyunlarımı"
+            },
+            {
+                "sarkiId": 100001,
+                "sarkiciName": "hasanseks",
+                "sarkiName": "Bangır Bangır",
+                "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/5/5b/G%C3%BCl%C5%9Fen_-_Bang%C4%B1r_Bang%C4%B1r.png",
+                "sarkiDefaultTranspose": "C",
+                "sarkiSoz": "Gül(Gm) gibi uyuyan yılanı uyandırdın\nGaranti(Cm) bildin beni havalandın\nAdın(Eb) bensiz buralarda\nEtkisiz eleman sıfır(D) aldın\nYavrum(Gm) kaldır kollarını\nTeslim(Gm) ol etrafın sarılı\nSabret(Gm) af çıksın sana ben\nÖptürcem(Gm) bu evin yollarını\nYavrum(Gm) kaldır kollarını\nTeslim(Gm) ol etrafın sarılı\nBunlar(Gm) iyi günler sana ben\nGöstercem(Gm) kıvrak oyunlarımı"
             }
         ]
     }
