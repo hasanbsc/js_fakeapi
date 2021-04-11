@@ -7,7 +7,7 @@
                 "sarkiName": "Bangır Bangır",
                 "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/5/5b/G%C3%BCl%C5%9Fen_-_Bang%C4%B1r_Bang%C4%B1r.png",
                 "sarkiDefaultTranspose": "C",
-                "sarkiSoz": "Gül(Gm) gibi uyuyan yılanı uyandırdın\n\nGaranti(Cm) bildin beni havalandın\n\nAdın(Eb) bensiz buralarda\n\nEtkisiz eleman sıfır(D) aldın\n\nYavrum(Gm) kaldır kollarını\n\nTeslim(Gm) ol etrafın sarılı\n\nSabret(Gm) af çıksın sana ben\n\nÖptürcem(Gm) bu evin yollarını\n\nYavrum(Gm) kaldır kollarını\n\nTeslim(Gm) ol etrafın sarılı\n\nBunlar(Gm) iyi günler sana ben\n\nGöstercem(Gm) kıvrak oyunlarımı"
+                "sarkiSoz": "Gül(Gm) gibi uyuyan yılanı uyandırdın\n\nGaranti(Cm) bildin beni havalandın\n\nAdın(Eb) bensiz buralarda\n\nEtkisiz eleman sıfır(D) aldın\n\n\n\nYavrum(Gm) kaldır kollarını\n\nTeslim(Gm) ol etrafın sarılı\n\nSabret(Gm) af çıksın sana ben\n\nÖptürcem(Gm) bu evin yollarını\n\n\n\nYavrum(Gm) kaldır kollarını\n\nTeslim(Gm) ol etrafın sarılı\n\nBunlar(Gm) iyi günler sana ben\n\nGöstercem(Gm) kıvrak oyunlarımı"
             },
             {
                 "sarkiId": 100002,
@@ -20,10 +20,10 @@
             {
                 "sarkiId": 100003,
                 "sarkiciName": "Murat Kekilli",
-                "sarkiName": "Aman Aman",
+                "sarkiName": "Avara",
                 "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/a0/Kapak_murat_kekili_avara.jpg/250px-Kapak_murat_kekili_avara.jpg",
                 "sarkiDefaultTranspose": "G#",
-                "sarkiSoz": "Yeter(G#m) olsun yeter olsun(F#)\n\nÇok(E) ağlattın yeter olsun(G#m)\n\nO(G#m) kızıl saçlarını(F#)\n\nÇözen(E) benden beter olsun(G#m)\n\nKaradır(G#m) kaşların kara\n\nSineme açtın yara\n\nBeni(C#m) dünyada avara(F#)\n\nEden(E) bin beter(F#) olsun(G#m)"
+                "sarkiSoz": "Yeter(G#m) olsun yeter olsun(F#)\n\nÇok(E) ağlattın yeter olsun(G#m)\n\nO(G#m) kızıl saçlarını(F#)\n\nÇözen(E) benden beter olsun(G#m)\n\n\n\nKaradır(G#m) kaşların kara\n\nSineme açtın yara\n\nBeni(C#m) dünyada avara(F#)\n\nEden(E) bin beter(F#) olsun(G#m)"
             }
         ]
     }
