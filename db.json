@@ -14,9 +14,18 @@
                 "sarkiciName": "Duman",
                 "sarkiName": "Aman Aman",
                 "sarkiPic": "https://radyonet.net/cdn/sarkilar/337f9fe9ba02be0aa84bd71e4515c4dd.jpg",
-                "sarkiDefaultTranspose": "C",
+                "sarkiDefaultTranspose": "F#",
+                "sarkiSoz": "Nereye(F#m) gider başını alıp sorarsın(E)\n\nKimbilir(F#m)durmadan nasıl susarsın(E)\n\nBilmeden(F#m) boşuna atıp tutarsın(E)\n\nSu(F#m) gibi(E) akıp geçer zaman(F#m) (E)\n\n\n\nGezdin(F#m) tozdun(E) aman aman aman\n\nSazdın(F#m) sözdün(E) aman aman aman(E)\n\nGiderek(F#m) üzdün(E) bizi zaman\n\nGiderek(F#m) üzdün(E) bizi zaman(F#m)"
+            },
+            {
+                "sarkiId": 100003,
+                "sarkiciName": "Murat Kekilli",
+                "sarkiName": "Aman Aman",
+                "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/a0/Kapak_murat_kekili_avara.jpg/250px-Kapak_murat_kekili_avara.jpg",
+                "sarkiDefaultTranspose": "G#",
                 "sarkiSoz": "Nereye(F#m) gider başını alıp sorarsın(E)\n\nKimbilir(F#m)durmadan nasıl susarsın(E)\n\nBilmeden(F#m) boşuna atıp tutarsın(E)\n\nSu(F#m) gibi(E) akıp geçer zaman(F#m) (E)\n\n\n\nGezdin(F#m) tozdun(E) aman aman aman\n\nSazdın(F#m) sözdün(E) aman aman aman(E)\n\nGiderek(F#m) üzdün(E) bizi zaman\n\nGiderek(F#m) üzdün(E) bizi zaman(F#m)"
             }
+            
         ]
     }
 ]
