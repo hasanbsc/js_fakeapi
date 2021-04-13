@@ -1,54 +1,52 @@
-[
-    {
-        "sarkilar": [
-            {
-                "sarkiId": 100001,
-                "sarkiciName": "Gülşen",
-                "sarkiName": "Bangır Bangır",
-                "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/5/5b/G%C3%BCl%C5%9Fen_-_Bang%C4%B1r_Bang%C4%B1r.png",
-                "sarkiDefaultTranspose": "C",
-                "sarkiSoz": "Gül(Gm) gibi uyuyan yılanı uyandırdın\n\nGaranti(Cm) bildin beni havalandın\n\nAdın(Eb) bensiz buralarda\n\nEtkisiz eleman sıfır(D) aldın\n\n\n\nYavrum(Gm) kaldır kollarını\n\nTeslim(Gm) ol etrafın sarılı\n\nSabret(Gm) af çıksın sana ben\n\nÖptürcem(Gm) bu evin yollarını\n\n\n\nYavrum(Gm) kaldır kollarını\n\nTeslim(Gm) ol etrafın sarılı\n\nBunlar(Gm) iyi günler sana ben\n\nGöstercem(Gm) kıvrak oyunlarımı"
-            },
-            {
-                "sarkiId": 100002,
-                "sarkiciName": "Duman",
-                "sarkiName": "Aman Aman",
-                "sarkiPic": "https://radyonet.net/cdn/sarkilar/337f9fe9ba02be0aa84bd71e4515c4dd.jpg",
-                "sarkiDefaultTranspose": "F#",
-                "sarkiSoz": "Nereye(F#m) gider başını alıp sorarsın(E)\n\nKimbilir(F#m)durmadan nasıl susarsın(E)\n\nBilmeden(F#m) boşuna atıp tutarsın(E)\n\nSu(F#m) gibi(E) akıp geçer zaman(F#m) (E)\n\n\n\nGezdin(F#m) tozdun(E) aman aman aman\n\nSazdın(F#m) sözdün(E) aman aman aman(E)\n\nGiderek(F#m) üzdün(E) bizi zaman\n\nGiderek(F#m) üzdün(E) bizi zaman(F#m)"
-            },
-            {
-                "sarkiId": 100003,
-                "sarkiciName": "Murat Kekilli",
-                "sarkiName": "Avara",
-                "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/a0/Kapak_murat_kekili_avara.jpg/250px-Kapak_murat_kekili_avara.jpg",
-                "sarkiDefaultTranspose": "G#",
-                "sarkiSoz": "Yeter(G#m) olsun yeter olsun(F#)\n\nÇok(E) ağlattın yeter olsun(G#m)\n\nO(G#m) kızıl saçlarını(F#)\n\nÇözen(E) benden beter olsun(G#m)\n\n\n\nKaradır(G#m) kaşların kara\n\nSineme açtın yara\n\nBeni(C#m) dünyada avara(F#)\n\nEden(E) bin beter(F#) olsun(G#m)"
-            },
-            {
-                "sarkiId": 100004,
-                "sarkiciName": "Ufuk Beydemir",
-                "sarkiName": "Ay Tenli Kadın",
-                "sarkiPic": "https://www.mp3indirdur.mobi/album/Ufuk-Beydemir-Akustik.jpg",
-                "sarkiDefaultTranspose": "F#",
-                "sarkiSoz": "Senin(F#) derinlerinde bir yerde buldum(Bbm)\n\nSımsıkı sarılacak(B), karışacak köklerimi(Bbm)\n\nGörmek(F#), beraber olmak seninle(Bbm)\n\nÇok güzel belki ama düşlemek(B) bambaşka(Bbm)\n\nTenin(F#) almış beyazlığını aydan(Bbm)\n\nSaçlarının rengi geceden(B)\n\nBundan geceye sevdam(Bbm)\n\nSen(F#) örterken benimle kalbini(Bbm)\n\nAl aklım gibi hissimi(B)\n\nAl çünkü özlüyorum(Bbm)"
-            },
-            {
-                "sarkiId": 100005,
-                "sarkiciName": "Şebnem Ferah",
-                "sarkiName": "Sil Baştan",
-                "sarkiPic": "https://img.discogs.com/61OCl58VwJQxVToiiOMkLncrb-k=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-939919-1558705069-3196.jpeg.jpg",
-                "sarkiDefaultTranspose": "E",
-                "sarkiSoz": "Senin(F#) derinlerinde bir yerde buldum(Bbm)\n\nSımsıkı sarılacak(B), karışacak köklerimi(Bbm)\n\nGörmek(F#), beraber olmak seninle(Bbm)\n\nÇok güzel belki ama düşlemek(B) bambaşka(Bbm)\n\nTenin(F#) almış beyazlığını aydan(Bbm)\n\nSaçlarının rengi geceden(B)\n\nBundan geceye sevdam(Bbm)\n\nSen(F#) örterken benimle kalbini(Bbm)\n\nAl aklım gibi hissimi(B)\n\nAl çünkü özlüyorum(Bbm)"
-            },
-            {
-                "sarkiId": 100006,
-                "sarkiciName": "Emircan İğrek",
-                "sarkiName": "Nalan",
-                "sarkiPic": "https://1.bp.blogspot.com/-Pa2R8H8lATM/XXy4CkVCecI/AAAAAAAAbqY/cHeeys-txo850eT2v-0Yb3DjphhLgdNbACLcBGAsYHQ/s1600/emircan.PNG",
-                "sarkiDefaultTranspose": "G",
-                "sarkiSoz": "Senin(F#) derinlerinde bir yerde buldum(Bbm)\n\nSımsıkı sarılacak(B), karışacak köklerimi(Bbm)\n\nGörmek(F#), beraber olmak seninle(Bbm)\n\nÇok güzel belki ama düşlemek(B) bambaşka(Bbm)\n\nTenin(F#) almış beyazlığını aydan(Bbm)\n\nSaçlarının rengi geceden(B)\n\nBundan geceye sevdam(Bbm)\n\nSen(F#) örterken benimle kalbini(Bbm)\n\nAl aklım gibi hissimi(B)\n\nAl çünkü özlüyorum(Bbm)"
-            }
-        ]
-    }
-]
+{
+    "sarkilar": [
+        {
+            "sarkiId": 100001,
+            "sarkiciName": "Gülşen",
+            "sarkiName": "Bangır Bangır",
+            "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/5/5b/G%C3%BCl%C5%9Fen_-_Bang%C4%B1r_Bang%C4%B1r.png",
+            "sarkiDefaultTranspose": "C",
+            "sarkiSoz": "Gül(Gm) gibi uyuyan yılanı uyandırdın\n\nGaranti(Cm) bildin beni havalandın\n\nAdın(Eb) bensiz buralarda\n\nEtkisiz eleman sıfır(D) aldın\n\n\n\nYavrum(Gm) kaldır kollarını\n\nTeslim(Gm) ol etrafın sarılı\n\nSabret(Gm) af çıksın sana ben\n\nÖptürcem(Gm) bu evin yollarını\n\n\n\nYavrum(Gm) kaldır kollarını\n\nTeslim(Gm) ol etrafın sarılı\n\nBunlar(Gm) iyi günler sana ben\n\nGöstercem(Gm) kıvrak oyunlarımı"
+        },
+        {
+            "sarkiId": 100002,
+            "sarkiciName": "Duman",
+            "sarkiName": "Aman Aman",
+            "sarkiPic": "https://radyonet.net/cdn/sarkilar/337f9fe9ba02be0aa84bd71e4515c4dd.jpg",
+            "sarkiDefaultTranspose": "F#",
+            "sarkiSoz": "Nereye(F#m) gider başını alıp sorarsın(E)\n\nKimbilir(F#m)durmadan nasıl susarsın(E)\n\nBilmeden(F#m) boşuna atıp tutarsın(E)\n\nSu(F#m) gibi(E) akıp geçer zaman(F#m) (E)\n\n\n\nGezdin(F#m) tozdun(E) aman aman aman\n\nSazdın(F#m) sözdün(E) aman aman aman(E)\n\nGiderek(F#m) üzdün(E) bizi zaman\n\nGiderek(F#m) üzdün(E) bizi zaman(F#m)"
+        },
+        {
+            "sarkiId": 100003,
+            "sarkiciName": "Murat Kekilli",
+            "sarkiName": "Avara",
+            "sarkiPic": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/a0/Kapak_murat_kekili_avara.jpg/250px-Kapak_murat_kekili_avara.jpg",
+            "sarkiDefaultTranspose": "G#",
+            "sarkiSoz": "Yeter(G#m) olsun yeter olsun(F#)\n\nÇok(E) ağlattın yeter olsun(G#m)\n\nO(G#m) kızıl saçlarını(F#)\n\nÇözen(E) benden beter olsun(G#m)\n\n\n\nKaradır(G#m) kaşların kara\n\nSineme açtın yara\n\nBeni(C#m) dünyada avara(F#)\n\nEden(E) bin beter(F#) olsun(G#m)"
+        },
+        {
+            "sarkiId": 100004,
+            "sarkiciName": "Ufuk Beydemir",
+            "sarkiName": "Ay Tenli Kadın",
+            "sarkiPic": "https://www.mp3indirdur.mobi/album/Ufuk-Beydemir-Akustik.jpg",
+            "sarkiDefaultTranspose": "F#",
+            "sarkiSoz": "Senin(F#) derinlerinde bir yerde buldum(Bbm)\n\nSımsıkı sarılacak(B), karışacak köklerimi(Bbm)\n\nGörmek(F#), beraber olmak seninle(Bbm)\n\nÇok güzel belki ama düşlemek(B) bambaşka(Bbm)\n\nTenin(F#) almış beyazlığını aydan(Bbm)\n\nSaçlarının rengi geceden(B)\n\nBundan geceye sevdam(Bbm)\n\nSen(F#) örterken benimle kalbini(Bbm)\n\nAl aklım gibi hissimi(B)\n\nAl çünkü özlüyorum(Bbm)"
+        },
+        {
+            "sarkiId": 100005,
+            "sarkiciName": "Şebnem Ferah",
+            "sarkiName": "Sil Baştan",
+            "sarkiPic": "https://img.discogs.com/61OCl58VwJQxVToiiOMkLncrb-k=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-939919-1558705069-3196.jpeg.jpg",
+            "sarkiDefaultTranspose": "E",
+            "sarkiSoz": "Senin(F#) derinlerinde bir yerde buldum(Bbm)\n\nSımsıkı sarılacak(B), karışacak köklerimi(Bbm)\n\nGörmek(F#), beraber olmak seninle(Bbm)\n\nÇok güzel belki ama düşlemek(B) bambaşka(Bbm)\n\nTenin(F#) almış beyazlığını aydan(Bbm)\n\nSaçlarının rengi geceden(B)\n\nBundan geceye sevdam(Bbm)\n\nSen(F#) örterken benimle kalbini(Bbm)\n\nAl aklım gibi hissimi(B)\n\nAl çünkü özlüyorum(Bbm)"
+        },
+        {
+            "sarkiId": 100006,
+            "sarkiciName": "Emircan İğrek",
+            "sarkiName": "Nalan",
+            "sarkiPic": "https://1.bp.blogspot.com/-Pa2R8H8lATM/XXy4CkVCecI/AAAAAAAAbqY/cHeeys-txo850eT2v-0Yb3DjphhLgdNbACLcBGAsYHQ/s1600/emircan.PNG",
+            "sarkiDefaultTranspose": "G",
+            "sarkiSoz": "Senin(F#) derinlerinde bir yerde buldum(Bbm)\n\nSımsıkı sarılacak(B), karışacak köklerimi(Bbm)\n\nGörmek(F#), beraber olmak seninle(Bbm)\n\nÇok güzel belki ama düşlemek(B) bambaşka(Bbm)\n\nTenin(F#) almış beyazlığını aydan(Bbm)\n\nSaçlarının rengi geceden(B)\n\nBundan geceye sevdam(Bbm)\n\nSen(F#) örterken benimle kalbini(Bbm)\n\nAl aklım gibi hissimi(B)\n\nAl çünkü özlüyorum(Bbm)"
+        }
+    ]
+}
